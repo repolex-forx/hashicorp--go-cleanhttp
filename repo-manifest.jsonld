@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/hashicorp/go-cleanhttp/commit/b0e8488e2fe29dce6a369099f264aa046c27b659",
       "git:hexsha": "b0e8488e2fe29dce6a369099f264aa046c27b659",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/hashicorp/go-cleanhttp/commit/e8ab9daed8d1ddd2d3c4efba338fe2eeae2e4f18",
