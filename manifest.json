@@ -1,0 +1,34 @@
+{
+  "manifest_version": "1.0",
+  "org": "hashicorp",
+  "repo": "go-cleanhttp",
+  "versions": [
+    {
+      "commit": "b0e8488e2fe29dce6a369099f264aa046c27b659",
+      "parsed_at": "2026-11-09T22:23:14.616136+00:00",
+      "filetree": "filetree/b0e8488e2fe29dce6a369099f264aa046c27b659.nq.gz",
+      "blobs": [
+        "blob/6d1e382c20202c3d6455e9b7fdf30b2ae87f6620.nq.gz",
+        "blob/69c63bf9d1200203f417e2b551a06ecc84412036.nq.gz",
+        "blob/72a13c9193edb7589b6a391ee2a739380f982f64.nq.gz",
+        "blob/036e5313fc8f91fd38136ad16db65ef23ce69d64.nq.gz",
+        "blob/14d3f054f13e4f8e1335d8efc3cfd45185c6a221.nq.gz",
+        "blob/5d29684d7aaf59e704217bea61fb79ebb7acd9d3.nq.gz",
+        "blob/bfc77887d07f47102fc47f79f968eaeecf855629.nq.gz",
+        "blob/fc99b73154d60c42f3df592ae51d0c8a4077167d.nq.gz",
+        "blob/4af220d0dcfd715fe6895315020231b79642d48a.nq.gz",
+        "blob/8b2b6740439447b47a157884c302937c61bb2cb7.nq.gz",
+        "blob/0c6a85c24f644a2908becf11c7a11a7788f6e932.nq.gz",
+        "blob/54103cb12a6d142a9e8bacd423cbc183992e85c7.nq.gz",
+        "blob/4bdde03bb41448aad1d08057b1015757fcd4b1af.nq.gz",
+        "blob/d3609b4ff95dbda3dcae7692d1ffe36360f21839.nq.gz",
+        "blob/ed73dac6a725ddd590eb0590b6c5364e2b7d3b34.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
